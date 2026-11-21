@@ -1,0 +1,451 @@
+#EXTM3U
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309632/1166309641/7546538af91f1f329511a05dcfe204f5d86504ef" group-title="A SAMPLE FAMILY", A Sample Family - Episode 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3248868/A-Sample-Family
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309636/1166309650/074086a1e23cfb98cd58ff242dce58fdcce6a648" group-title="A SAMPLE FAMILY", A Sample Family - Episode 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3248892/A-Sample-Family
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309629/1166310102/859450e1936cfb0814b26a5cd59215f9558764d4" group-title="A SAMPLE FAMILY", A Sample Family - Episode 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3248908/A-Sample-Family
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309635/1166309647/cd627a4b50738db3e0a1f1ac667c0c99060b1bbc" group-title="A SAMPLE FAMILY", A Sample Family - Episode 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3248876/A-Sample-Family
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309626/1166309639/48a270e4046c14f02e237370ffadb80ee91ab619" group-title="A SAMPLE FAMILY", A Sample Family - Episode 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3248860/A-Sample-Family
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309627/1166309640/76590a4ef0be0c3912378bc755c146722ff9263e" group-title="A SAMPLE FAMILY", A Sample Family - Episode 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3248904/A-Sample-Family
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309631/1166309643/01bcebdc3873ced05a31d9cdc9de2b68d164055e" group-title="A SAMPLE FAMILY", A Sample Family - Episode 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3248864/A-Sample-Family
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309637/1166309644/7d7f57f25793b5e6439b8b7c9f525d5ce4009e87" group-title="A SAMPLE FAMILY", A Sample Family - Episode 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3248888/A-Sample-Family
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309628/1166309662/072663171a2bba6f654b49bc986bd333cddb69a1" group-title="A SAMPLE FAMILY", A Sample Family - Episode 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3248902/A-Sample-Family
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309633/1166309649/d83ec339d4d82598b28041cebbb9cab9025d65e5" group-title="A SAMPLE FAMILY", A Sample Family - Episode 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3248880/A-Sample-Family
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309630/1166309663/cce6abeafe20c319ee0f00f9522b7ca06f1f0170" group-title="A SAMPLE FAMILY", A Sample Family - Episode 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3248872/A-Sample-Family
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309634/1166309646/a72990852944837d2b915ca7bf9e8e829b035c89" group-title="A SAMPLE FAMILY", A Sample Family - Episode 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3248885/A-Sample-Family
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309638/1166309648/5e59d9657f1c0db3a5f09218b849b001450993b8" group-title="A SAMPLE FAMILY", A Sample Family - Episode 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3248896/A-Sample-Family
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166312782/1166312829/671da30f563bc774db5c548d5fc489f937a16187" group-title="CYCLE OF SIN", Cycle of Sin - Episode 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3340531/Cycle-of-Sin
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166312781/1166312836/e74c788c50a9b51f7f164bb86ee62d4d7ef83a3d" group-title="CYCLE OF SIN", Cycle of Sin - Episode 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3340527/Cycle-of-Sin
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166313313/1166313403/c1d0e581f575b6259165f0a5632e8d6d0ac3306f" group-title="CYCLE OF SIN", Cycle of Sin - Episode 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3360410/Cycle-of-Sin
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166313312/1166313430/59999da4e538d944df0b16f8cb6c1fb995c7f026" group-title="CYCLE OF SIN", Cycle of Sin - Episode 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3360406/Cycle-of-Sin
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166313596/1166313894/6e07f0cffb8d7e9c00d6c5ca13adc1df0083f99c" group-title="CYCLE OF SIN", Cycle of Sin - Episode 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3368211/Cycle-of-Sin
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166313597/1166313628/5e62ac07de71d51f972fa96dfcb443de861ec4c7" group-title="CYCLE OF SIN", Cycle of Sin - Episode 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3368216/Cycle-of-Sin
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166313953/1166314098/d3f175fa418cdb00c73457d39112c7a38ccb3444" group-title="CYCLE OF SIN", Cycle of Sin - Episode 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3381600/Cycle-of-Sin
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166313952/1166314110/42b30b04e1a1f5aa7e5b70117c75dc00af90e56b" group-title="CYCLE OF SIN", Cycle of Sin - Episode 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3377897/Cycle-of-Sin
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166314663/1166314750/2e8b6ab8081f732743fcdd84f90da5a01bc7bc4a" group-title="CYCLE OF SIN", Cycle of Sin - Episode 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3388553/Cycle-of-Sin
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166314659/1166314752/582dc5e3e284bdf5778e3b4d28f641a1ba5e6a63" group-title="CYCLE OF SIN", Cycle of Sin - Episode 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3388559/Cycle-of-Sin
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166315288/1166315399/6d4bf1c94a87e76a5cdf92eb4d5a318505b52084" group-title="HELL HOME", Hell Home - Episode 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3413078/Hell-Home
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166315286/1166315401/6571b1b65c68a5318cfd2a4fa4372a9c5a3f564f" group-title="HELL HOME", Hell Home - Episode 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3413076/Hell-Home
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166316185/1166316658/1bcdcb9713725378d8dfbaddfcf0943996f647eb" group-title="HELL HOME", Hell Home - Episode 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3423420/Hell-Home
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166316183/1166318911/eefc88fb4ba776aa6de355b19f3c3e2037b76555" group-title="HELL HOME", Hell Home - Episode 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3423403/Hell-Home
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166318904/1166319091/5ccad85288bc495c292a8c0d090125b64b7632f1" group-title="HELL HOME", Hell Home - Episode 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3445068/Hell-Home
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166318913/1166319092/7fc32e51f63e8a30008556a7dc47b2a0f1ce8847" group-title="HELL HOME", Hell Home - Episode 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3445070/Hell-Home
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166319932/1166320721/515d9eb4f3778a4fc8e99a63e41dabac67d12eb0" group-title="HELL HOME", Hell Home - Episode 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3464445/Hell-Home
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166320839/1166321022/91dd8d235926661071f56a2828691fd8cabe1bf5" group-title="HELL HOME", Hell Home - Episode 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3470304/Hell-Home
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166321503/1166321523/afb9125881cda39de5ab023f5b907ffa97020f12" group-title="HELL HOME", Hell Home - Episode 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3489695/Hell-Home
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166321502/1166321525/b175fbe69695b6cb0acf40c05472b831254c19fa" group-title="HELL HOME", Hell Home - Episode 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3489703/Hell-Home
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166310841/1166310862/ca66405926ef001b56ec1162e99d4b616760250d" group-title="MUI FEI THE MEDIUM", Mui Fei The Medium - Episode 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3254223/Mui-Fei-The-Medium
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166310839/1166310860/b4b8c0112fa371188e9dc5b8965cc78485f5201c" group-title="MUI FEI THE MEDIUM", Mui Fei The Medium - Episode 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3254215/Mui-Fei-The-Medium
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166310842/1166310861/4ac3c3ed1fc82f3a16d47571bb42dce0942d00bd" group-title="MUI FEI THE MEDIUM", Mui Fei The Medium - Episode 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3254231/Mui-Fei-The-Medium
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166310840/1166310883/c8b0368d5ea4ab5d8c952dd810bb21a280457cd5" group-title="MUI FEI THE MEDIUM", Mui Fei The Medium - Episode 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3254219/Mui-Fei-The-Medium
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166310843/1166310863/8451c89a55413175d43e6a7a3bb71d8278c5139b" group-title="MUI FEI THE MEDIUM", Mui Fei The Medium - Episode 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3254227/Mui-Fei-The-Medium
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311179/1166311180/2bb9f039c40b726bca7fef51025796e0a0f54e0a" group-title="MUI FEI THE MEDIUM", Mui Fei The Medium - Episode 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3269864/Mui-Fei-The-Medium
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311315/1166311327/f16f80d9096e5ae509d382150ffdf9018e0406f2" group-title="MUI FEI THE MEDIUM", Mui Fei The Medium - Episode 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3271488/Mui-Fei-The-Medium
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311314/1166311328/256299df73574000800b373ec14b47c9a7db0aba" group-title="MUI FEI THE MEDIUM", Mui Fei The Medium - Episode 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3271486/Mui-Fei-The-Medium
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311431/1166311434/690a2ed87b40a01c2fb8524fd467849dad537177" group-title="MUI FEI THE MEDIUM", Mui Fei The Medium - Episode 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3272332/Mui-Fei-The-Medium
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311734/1166311759/6d369dae17c2f36524e19c2c32c785ad7ff1ebc4" group-title="MUI FEI THE MEDIUM", Mui Fei The Medium - Episode 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3285831/Mui-Fei-The-Medium
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166314043/1166314091/d83475f78e1cb69546b99690b268ea534027dcd5" group-title="MURDER IN THE KITCHEN", Murder In The Kitchen - Episode 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3383555/Murder-In-The-Kitchen
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166314042/1166314092/dfa566944611e5e262f402c998f15b1586da8a6c" group-title="MURDER IN THE KITCHEN", Murder In The Kitchen - Episode 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3383551/Murder-In-The-Kitchen
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166314642/1166314696/ec94aeed53e2b51439792483b532a864da83dbc8" group-title="MURDER IN THE KITCHEN", Murder In The Kitchen - Episode 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3388464/Murder-In-The-Kitchen
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166314859/1166314874/b8bbd23510c5caa1131b2ab4cf89d33143e15cd8" group-title="MURDER IN THE KITCHEN", Murder In The Kitchen - Episode 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3401113/Murder-In-The-Kitchen
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166315559/1166316660/8ca03d8016a201fa79277429bec69a4806392694" group-title="MURDER IN THE KITCHEN", Murder In The Kitchen - Episode 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3423296/Murder-In-The-Kitchen
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166318905/1166319089/511a964bba03937dfb7de219c67f06bfa7b73b9e" group-title="MURDER IN THE KITCHEN", Murder In The Kitchen - Episode 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3445062/Murder-In-The-Kitchen
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166319933/1166320031/a8f05f6c820c0ea7e8b0107f40b7d483814b2cb5" group-title="MURDER IN THE KITCHEN", Murder In The Kitchen - Episode 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3464451/Murder-In-The-Kitchen
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166321504/1166321566/6be19dbee6f002eb16d6a4478cda86f394ed3bf8" group-title="MURDER IN THE KITCHEN", Murder In The Kitchen - Episode 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3489699/Murder-In-The-Kitchen
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166322331/1166322353/f6b1abedd54e1b95c23cf51505a0d926a7c73e5c" group-title="MURDER IN THE KITCHEN", Murder In The Kitchen - Episode 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3507900/Murder-In-The-Kitchen
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166322332/1166322406/c218d48dd39aaef22d37fbf351ce9b581fe58fbb" group-title="MURDER IN THE KITCHEN", Murder In The Kitchen - Episode 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3507902/Murder-In-The-Kitchen
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309239/1166309440/108e7983a73acce8d22294a0cadb36d9d47b0350" group-title="MY WIFE'S GUNSLINGER GOD", My Wife's Gunslinger God - Episode 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3221886/My-Wifes-Gunslinger-God
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309240/1166309442/9d69969432146eee358879a20702182448362e7b" group-title="MY WIFE'S GUNSLINGER GOD", My Wife's Gunslinger God - Episode 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3221878/My-Wifes-Gunslinger-God
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309238/1166309443/bc2d68bc730707d7762535a0ade0d2b5b204f3a4" group-title="MY WIFE'S GUNSLINGER GOD", My Wife's Gunslinger God - Episode 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3221882/My-Wifes-Gunslinger-God
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309237/1166309444/d6db516580c875f9b8e0f78b74537873230c2501" group-title="MY WIFE'S GUNSLINGER GOD", My Wife's Gunslinger God - Episode 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3221890/My-Wifes-Gunslinger-God
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309236/1166309445/aa6928a6b6717761648528020ff06ea1eaf11994" group-title="MY WIFE'S GUNSLINGER GOD", My Wife's Gunslinger God - Episode 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3221870/My-Wifes-Gunslinger-God
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309241/1166309446/f677b2f99d24a0fec78ad53d6f54b05fbd6214e1" group-title="MY WIFE'S GUNSLINGER GOD", My Wife's Gunslinger God - Episode 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3221874/My-Wifes-Gunslinger-God
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309257/1166309269/342639c2f69ef1cc47a9cfa0d1b2198e0cb5cc38" group-title="OOPS! I'M THE CONCUBINE", Oops! I'm the Concubine - Episode 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3228165/Oops-Im-the-Concubine
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309266/1166309275/cb7f7a392f7be5b327aa7f122c0477c6ecd72a63" group-title="OOPS! I'M THE CONCUBINE", Oops! I'm the Concubine - Episode 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3228161/Oops-Im-the-Concubine
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309258/1166309290/3cae7a9d98e0900d5da2c4a23ba9e57db4085706" group-title="OOPS! I'M THE CONCUBINE", Oops! I'm the Concubine - Episode 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3228142/Oops-Im-the-Concubine
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309265/1166309279/4ba4734336d41c8607f8d8662ceea4a1c32cbdd3" group-title="OOPS! I'M THE CONCUBINE", Oops! I'm the Concubine - Episode 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3228157/Oops-Im-the-Concubine
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309261/1166309287/1cff9b660fc3d381fe680a9b587f88a23d411782" group-title="OOPS! I'M THE CONCUBINE", Oops! I'm the Concubine - Episode 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3228133/Oops-Im-the-Concubine
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309254/1166309286/16abaeede560554a2b9ffe22d48e36ef7b7cb523" group-title="OOPS! I'M THE CONCUBINE", Oops! I'm the Concubine - Episode 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3228125/Oops-Im-the-Concubine
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309264/1166309280/b5b9a1a76a5687638d1c8ebeed8538f51895504e" group-title="OOPS! I'M THE CONCUBINE", Oops! I'm the Concubine - Episode 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3228153/Oops-Im-the-Concubine
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309260/1166309276/13be24a0a4083d6aea886b12a90b7b535432b970" group-title="OOPS! I'M THE CONCUBINE", Oops! I'm the Concubine - Episode 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3228137/Oops-Im-the-Concubine
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309255/1166309270/96c7ae928ed50380a40c10710b53295a008f7b06" group-title="OOPS! I'M THE CONCUBINE", Oops! I'm the Concubine - Episode 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3228169/Oops-Im-the-Concubine
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309256/1166309294/99e2dad3390f99ec6bd052e434bc0d9076401daf" group-title="OOPS! I'M THE CONCUBINE", Oops! I'm the Concubine - Episode 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3228173/Oops-Im-the-Concubine
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309259/1166309291/bd2135b5693ed30baa77ad73df2912ed2b693918" group-title="OOPS! I'M THE CONCUBINE", Oops! I'm the Concubine - Episode 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3228129/Oops-Im-the-Concubine
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309262/1166309278/0016a894eff5be6c861adacf51cc4a047bb32aff" group-title="OOPS! I'M THE CONCUBINE", Oops! I'm the Concubine - Episode 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3228145/Oops-Im-the-Concubine
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309263/1166309277/aec819d2fc53b5191adf14c0f43789909f2466b2" group-title="OOPS! I'M THE CONCUBINE", Oops! I'm the Concubine - Episode 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3228149/Oops-Im-the-Concubine
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309468/1166309499/9a5df55b282ab31a4dc6bceee35105ed55a0b9f2" group-title="THE COPS SPY ON STAGE", The Cops Spy On Stage - Episode 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3230399/The-Cops-Spy-On-Stage
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309469/1166309500/3e733a24df967b71805a428c857dd633ff9a05d9" group-title="THE COPS SPY ON STAGE", The Cops Spy On Stage - Episode 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3230403/The-Cops-Spy-On-Stage
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309465/1166309501/0da410c1e75b645c535a67aa3a2b982c0dea96ba" group-title="THE COPS SPY ON STAGE", The Cops Spy On Stage - Episode 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3230415/The-Cops-Spy-On-Stage
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309467/1166309503/ec740024e5411ddc72066fa41348aa20a58c3e31" group-title="THE COPS SPY ON STAGE", The Cops Spy On Stage - Episode 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3230411/The-Cops-Spy-On-Stage
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309473/1166311799/7694f98d04550f9b81676af4d9590f8be948aea1" group-title="THE COPS SPY ON STAGE", The Cops Spy On Stage - Episode 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3230423/The-Cops-Spy-On-Stage
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309463/1166309504/b018a0de002f872251d195a8ea23f5b74cd160a4" group-title="THE COPS SPY ON STAGE", The Cops Spy On Stage - Episode 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3230395/The-Cops-Spy-On-Stage
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309466/1166309505/b98ef68f5659ee235277c9c27c168b3881c02ed2" group-title="THE COPS SPY ON STAGE", The Cops Spy On Stage - Episode 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3230419/The-Cops-Spy-On-Stage
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309464/1166309506/4dc928e03bd9651f05c262ed30428d297b848885" group-title="THE COPS SPY ON STAGE", The Cops Spy On Stage - Episode 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3230407/The-Cops-Spy-On-Stage
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311189/1166311190/e2e078a930022b22b4156348777d7dce44d15bae" group-title="TO LOVE AND CHERISH", To Love and Cherish - Episode 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3270521/To-Love-and-Cherish
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311188/1166311191/ce4443bdb4fecd880c28bd62a84f50157fa8061a" group-title="TO LOVE AND CHERISH", To Love and Cherish - Episode 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3270517/To-Love-and-Cherish
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311429/1166311432/e7fbcf0de66b9ecfddd2750aac65558073f163b9" group-title="TO LOVE AND CHERISH", To Love and Cherish - Episode 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3272325/To-Love-and-Cherish
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311430/1166311433/7b22170ef48e21ce25348ebf41a170bea7a23940" group-title="TO LOVE AND CHERISH", To Love and Cherish - Episode 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3272328/To-Love-and-Cherish
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311726/1166311760/ee447f380f6a610b88b2b78f6d6f38fd041ac3df" group-title="TO LOVE AND CHERISH", To Love and Cherish - Episode 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3285763/To-Love-and-Cherish
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311727/1166311763/9e2d180ebcb2f0205238f974144de417425c28ed" group-title="TO LOVE AND CHERISH", To Love and Cherish - Episode 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3285768/To-Love-and-Cherish
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311989/1166312364/16b7dddfd651f56dae70c467e5d6fc85db144cec" group-title="TO LOVE AND CHERISH", To Love and Cherish - Episode 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3297340/To-Love-and-Cherish
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166312041/1166312365/82a1c3a94cb78054a00b05d1308870ede246c103" group-title="TO LOVE AND CHERISH", To Love and Cherish - Episode 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3300088/To-Love-and-Cherish
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166312427/1166312573/aa8746651f88aff0b2c5c57778e301533fba3573" group-title="TO LOVE AND CHERISH", To Love and Cherish - Episode 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3321516/To-Love-and-Cherish
+
+#EXTINF:-1 type="series" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166312527/1166312574/47584d341a00c9cfe8beac4ebd40cd13f3440e4f" group-title="TO LOVE AND CHERISH", To Love and Cherish - Episode 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3334034/To-Love-and-Cherish
+

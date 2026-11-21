@@ -1,0 +1,186 @@
+#EXTM3U
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166304971/1166312415/f17acf1d3d772893ddd4ab4cc53c5e8032305e6a" group-title="FILM KOREA", Abroad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3303711/Abroad
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/2887807144/c8e03d8888eb73d892d20244558085764c225467" group-title="FILM KOREA", Boss
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3045691/Boss
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/931987077/9fa9d38ce1b895b9286a33c708406cfe71adb9f2" group-title="FILM KOREA", Boy In the Pool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2927418/Boy-In-the-Pool
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/813501170/ae532a47f68f7cf328d0697c2062cbc8fb1d84b6" group-title="FILM KOREA", Hear Me: Our Summer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2614056/Hear-Me-Our-Summer
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311105/1166311140/02876281bc95779037d4eeb36e5248342ae1931e" group-title="FILM KOREA", Hi-Five
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3269307/Hi-Five
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166233532/1166233731/034ce056de355dc4d8f3bc31bd4c2dbf415d7c41" group-title="FILM KOREA", Hijack 1971
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2572265/Hijack-1971
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/164226335/8e4d4c87f1168651e48f8340577ec7b561cfc84d" group-title="FILM KOREA", Holy Night: Demon Hunters
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2863466/Holy-Night-Demon-Hunters
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166259166/1166259189/b1a46a1a88ea73c3d2ade9aa6db71a04f8163a4e" group-title="FILM KOREA", It's Okay!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2672021/Its-Okay
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311992/1166312109/c446c36d5f47367d5395726ebccf227280ac08fd" group-title="FILM KOREA", Love Barista
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3301937/Love-Barista
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166294466/1166294480/db92ce6fd0f7914d91275d087c035676ac957ce7" group-title="FILM KOREA", Love In the Big City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2985891/Love-In-the-Big-City
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/1791149432/c4fb63215039e7796f31ce5e9345c62a8bf4520b" group-title="FILM KOREA", Love Reset
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2352579/Love-Reset
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/2842070086/0a3060d35e4295a7f83b7b9de82796ce8f6d1a91" group-title="FILM KOREA", New World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3166830/New-World
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/1325200238/9f3586fc6008731b0cea7fafbd7dc4fd5f935fd4" group-title="FILM KOREA", Omniscient Reader: The Prophecy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2927420/Omniscient-Reader-The-Prophecy
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166308476/1166308515/93b880a54a60c1a6abd223fea60428341cc3e85a" group-title="FILM KOREA", Once We Were Us
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3218422/Once-We-Were-Us
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/2355040693/59e17a2ea59caefc420c4ee44ddcc1fd845b26ce" group-title="FILM KOREA", Only God Knows Everything
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2987319/Only-God-Knows-Everything
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/559845675/496b658541429972c4a99b039ecec2ace2613265" group-title="FILM KOREA", Picnic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3071720/Picnic
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166229450/1166232270/d1122e2fad6b73dfdadbd909c2bafb00e2ce8a6c" group-title="FILM KOREA", Pilot
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2553318/Pilot
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/4224801227/34447af2bf4ccd79f482309817f914183955cd5f" group-title="FILM KOREA", Pretty Crazy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2927414/Pretty-Crazy
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/3985817043/e541bfcd108a9633b9ec792c29d9529fbbe6b296" group-title="FILM KOREA", Return of the Mafia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3147718/Return-of-the-Mafia
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/784933344/96663900e47df96c2e46dfbe8a787a7932e92207" group-title="FILM KOREA", Room No. 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3031062/Room-No-7
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166264921/1166264976/afac3c4a86788ad8558cfc4a3560a73a428b8238" group-title="FILM KOREA", Secret: Untold Melody
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2701469/Secret-Untold-Melody
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/3319822633/dd38c9c27a7370b65cda9f27de264f3ab8bad3ff" group-title="FILM KOREA", The Bad Guys: Reign of Chaos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2927818/The-Bad-Guys-Reign-of-Chaos
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166162562/1166162910/6578eb184b4b4cca95f889263a472c095a1f1298" group-title="FILM KOREA", The Childe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2262207/The-Childe
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/2229755920/f8105a78ddd1afe1717077ccc314f6f6b48e7bfc" group-title="FILM KOREA", The Favor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3042369/The-Favor
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166312882/1166313199/0a89c8263e046a0b9327c68420b41451fc8b730a" group-title="FILM KOREA", The First Ride
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3341219/The-First-Ride
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166083013/1166262040/275163874c13d01e9f63b2ba07f2450ce510f7ff" group-title="FILM KOREA", The Goblin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2058777/The-Goblin
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166307672/1166307675/f31b782f5da09fec0324858cb3f34067385407d9" group-title="FILM KOREA", The Killer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3197692/The-Killer
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/1661044577/6189281b4755d12c9b57ed9152589cb56c52c920" group-title="FILM KOREA", The Long Way Home
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2984981/The-Long-Way-Home
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166166370/1166169910/4a9a9ef486092d99a0f8587c95e98c30bec4a9e9" group-title="FILM KOREA", The Moon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2269469/The-Moon
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/927677545/10313aebbc5bb9d1f03c720807be4a7eafdd913e" group-title="FILM KOREA", The Old Woman with the Knife
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3068728/The-Old-Woman-with-the-Knife
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/749771486/99bcda16dc702897251a055b30edc7d9c06c6e6c" group-title="FILM KOREA", The Snitch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2762615/The-Snitch
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/2946581135/39503622e9408be4c95778e92277ff97c816d5d8" group-title="FILM KOREA", The Ugly
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3163783/The-Ugly
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309283/1166309285/43629b541ecd3761f942d7ec20ba96ba0ee298c9" group-title="FILM KOREA", The Villainess
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3221939/The-Villainess
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/471324463/ab2bf85f5fa6c7c71892de9f3fe562b2fba9b694" group-title="FILM KOREA", The Woman in the White Car
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3166826/The-Woman-in-the-White-Car
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166313676/1166313772/ebe2a1fed5194592005c4a46194b4438c83ca689" group-title="FILM KOREA", The World of Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3377179/The-World-of-Love
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/3051202465/e1717121b1f75649615ce6c5570626d339c1902c" group-title="FILM KOREA", Usury Academy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2762619/Usury-Academy
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166310121/1166312417/4826d49c370f5cb43ee6c3a224e19b11d5765397" group-title="FILM KOREA", What a Man Wants
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3303713/What-a-Man-Wants
+

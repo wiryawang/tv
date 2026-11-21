@@ -1,0 +1,241 @@
+#EXTM3U
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166304971/1166312415/f17acf1d3d772893ddd4ab4cc53c5e8032305e6a" group-title="FILM", Abroad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3303711/Abroad
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/2887807144/c8e03d8888eb73d892d20244558085764c225467" group-title="FILM", Boss
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3045691/Boss
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/931987077/9fa9d38ce1b895b9286a33c708406cfe71adb9f2" group-title="FILM", Boy In the Pool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2927418/Boy-In-the-Pool
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166261938/1166262042/52947c455d41ba0edb69febe8e2c1e052e3cd62b" group-title="FILM", Dark Nuns
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2683801/Dark-Nuns
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/1115464535/f2e854f36faa2b6bc7bfaf7c9fb6d717e446013a" group-title="FILM", Exit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2672222/Exit
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/813501170/ae532a47f68f7cf328d0697c2062cbc8fb1d84b6" group-title="FILM", Hear Me: Our Summer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2614056/Hear-Me-Our-Summer
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311105/1166311140/02876281bc95779037d4eeb36e5248342ae1931e" group-title="FILM", Hi-Five
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3269307/Hi-Five
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166250954/1166253113/822cf4d8ffe2d7f42d2f7ba82caaeae930431f91" group-title="FILM", Hidden Face
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2640118/Hidden-Face
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166233532/1166233731/034ce056de355dc4d8f3bc31bd4c2dbf415d7c41" group-title="FILM", Hijack 1971
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2572265/Hijack-1971
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/164226335/8e4d4c87f1168651e48f8340577ec7b561cfc84d" group-title="FILM", Holy Night: Demon Hunters
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2863466/Holy-Night-Demon-Hunters
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/85701222/86fc46b2ea8382391ef3c1cdb016880961f4c1a2" group-title="FILM", Hopeless
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2985894/Hopeless
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1165638024/1165644821/ffe7a6c5bfbc93942ea7dd15ffdd7d174ae80890" group-title="FILM", It's a Beautiful Day
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=1643769/Its-a-Beautiful-Day
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166259166/1166259189/b1a46a1a88ea73c3d2ade9aa6db71a04f8163a4e" group-title="FILM", It's Okay!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2672021/Its-Okay
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1164251106/1166314890/8f41b32e7d7bc6d8c6cc94b774935de1fc33aeda" group-title="FILM", Kenapa Harus Bule?
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=1756611/Kenapa-Harus-Bule
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166311992/1166312109/c446c36d5f47367d5395726ebccf227280ac08fd" group-title="FILM", Love Barista
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3301937/Love-Barista
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166294466/1166294480/db92ce6fd0f7914d91275d087c035676ac957ce7" group-title="FILM", Love In the Big City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2985891/Love-In-the-Big-City
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166294468/1166311113/20a69dbd7ef0e58b659977cbeb84e8a1d9414052" group-title="FILM", My Daughter is a Zombie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3269312/My-Daughter-is-a-Zombie
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/2842070086/0a3060d35e4295a7f83b7b9de82796ce8f6d1a91" group-title="FILM", New World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3166830/New-World
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/3060112751/5269d503ad552f16b6d5bc49ee7f8a62c66f5608" group-title="FILM", No Other Choice
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3099650/No-Other-Choice
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/1325200238/9f3586fc6008731b0cea7fafbd7dc4fd5f935fd4" group-title="FILM", Omniscient Reader: The Prophecy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2927420/Omniscient-Reader-The-Prophecy
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166308476/1166308515/93b880a54a60c1a6abd223fea60428341cc3e85a" group-title="FILM", Once We Were Us
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3218422/Once-We-Were-Us
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/2355040693/59e17a2ea59caefc420c4ee44ddcc1fd845b26ce" group-title="FILM", Only God Knows Everything
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2987319/Only-God-Knows-Everything
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/559845675/496b658541429972c4a99b039ecec2ace2613265" group-title="FILM", Picnic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3071720/Picnic
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/4224801227/34447af2bf4ccd79f482309817f914183955cd5f" group-title="FILM", Pretty Crazy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2927414/Pretty-Crazy
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/3985817043/e541bfcd108a9633b9ec792c29d9529fbbe6b296" group-title="FILM", Return of the Mafia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3147718/Return-of-the-Mafia
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/784933344/96663900e47df96c2e46dfbe8a787a7932e92207" group-title="FILM", Room No. 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3031062/Room-No-7
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309518/1166309530/f491362ec96ce93e294c31d8063e464ea6df46a0" group-title="FILM", Second Sister
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3235448/Second-Sister
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166264921/1166264976/afac3c4a86788ad8558cfc4a3560a73a428b8238" group-title="FILM", Secret: Untold Melody
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2701469/Secret-Untold-Melody
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/1150062871/80767f0c32c4861a6197cd01a1a2254a33c4587b" group-title="FILM", Streaming
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2863454/Streaming
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166175049/1166198948/1f7059f3e2a4be6e1ac80fd5498243dd2be1aad8" group-title="FILM", Ten Years Challenge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2290453/Ten-Years-Challenge
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/3319822633/dd38c9c27a7370b65cda9f27de264f3ab8bad3ff" group-title="FILM", The Bad Guys: Reign of Chaos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2927818/The-Bad-Guys-Reign-of-Chaos
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/2229755920/f8105a78ddd1afe1717077ccc314f6f6b48e7bfc" group-title="FILM", The Favor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3042369/The-Favor
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166312882/1166313199/0a89c8263e046a0b9327c68420b41451fc8b730a" group-title="FILM", The First Ride
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3341219/The-First-Ride
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166261937/1166262041/1768a9cff5b5545b253c4a38d60af7102632a926" group-title="FILM", The Ghost Game
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2683638/The-Ghost-Game
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166083013/1166262040/275163874c13d01e9f63b2ba07f2450ce510f7ff" group-title="FILM", The Goblin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2058777/The-Goblin
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166307672/1166307675/f31b782f5da09fec0324858cb3f34067385407d9" group-title="FILM", The Killer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3197692/The-Killer
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/1661044577/6189281b4755d12c9b57ed9152589cb56c52c920" group-title="FILM", The Long Way Home
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2984981/The-Long-Way-Home
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/3718257846/c019403a14eb4de160a09b6604570b219b54e7eb" group-title="FILM", The Silenced
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3050533/The-Silenced
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/749771486/99bcda16dc702897251a055b30edc7d9c06c6e6c" group-title="FILM", The Snitch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2762615/The-Snitch
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/2946581135/39503622e9408be4c95778e92277ff97c816d5d8" group-title="FILM", The Ugly
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3163783/The-Ugly
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166309283/1166309285/43629b541ecd3761f942d7ec20ba96ba0ee298c9" group-title="FILM", The Villainess
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3221939/The-Villainess
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/471324463/ab2bf85f5fa6c7c71892de9f3fe562b2fba9b694" group-title="FILM", The Woman in the White Car
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3166826/The-Woman-in-the-White-Car
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166313676/1166313772/ebe2a1fed5194592005c4a46194b4438c83ca689" group-title="FILM", The World of Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3377179/The-World-of-Love
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166304694/1166304696/d379e8889984dd4f3a6e3ab0388f9d64d48e921d" group-title="FILM", TIBA TIBA BRONDONG (Long Version)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3140636/TIBA-TIBA-BRONDONG-Long-Version
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/3051202465/e1717121b1f75649615ce6c5570626d339c1902c" group-title="FILM", Usury Academy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=2762619/Usury-Academy
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1165638035/1165644861/84561f28ce005b28fe6b16f5e301c8e5f3345e09" group-title="FILM", Walking to the West
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=1643768/Walking-to-the-West
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166310121/1166312417/4826d49c370f5cb43ee6c3a224e19b11d5765397" group-title="FILM", What a Man Wants
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3303713/What-a-Man-Wants
+
+#EXTINF:-1 type="movie" tvg-logo="https://prod-images.viu.com/2009156895/1d981b07aea5ec4482fdb31a80909168f7526179" group-title="FILM", You Will Die in 6 Hours
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.viu.com/
+http://udinlaw.sytes.net:8000/scripts/viu/stream-update.php?id=3099646/You-Will-Die-in-6-Hours
+
